@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "user": "Pablo Emilio",
+        "password": "123",
+        "address": "Barrio Medina"
+    },
+    {
+        "id": 2,
+        "user": "Pedro Pablo",
+        "password": "456",
+        "address": "Barrio Las Acacias"
+    },
+    {
+        "id": 3,
+        "user": "Martha Lucia",
+        "password": "789",
+        "address": "Barrio el Cochinillo"
+    }
+]

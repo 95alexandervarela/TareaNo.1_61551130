@@ -1,0 +1,17 @@
+{
+  "name": "serverjson",
+  "version": "1.0.0",
+  "description": "Tarea No.1 Http - Gixel Alexander Varela - 62111751",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
